@@ -1,0 +1,16 @@
+[
+{
+  "modid": "heroes",
+  "name": "Heroes Mod",
+  "description": "Become a superhero.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Aiden & Michael Cuneo"],
+  "credits": "This mod is by Aiden and Michael.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

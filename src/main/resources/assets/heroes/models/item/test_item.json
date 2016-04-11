@@ -1,0 +1,6 @@
+{
+    "parent":"heroes:item/standard_item",
+    "textures": {
+        "layer0":"heroes:items/test_item"
+    }
+}
